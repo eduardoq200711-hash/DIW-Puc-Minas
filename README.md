@@ -8,10 +8,10 @@
 ## Semana 2 - Atividade pratica
 
 ### 1. Inspeção de Rede do Portal
-![Inspeção de Rede](Images/rede.png)
+![Inspeção de Rede](images/rede.png)
 
 ### 2. Visualização do index.html
-![Página Index](Images/site.png)
+![Página Index](images/site.png)
 
 ---
 
@@ -19,4 +19,4 @@
 
 ### Visualização do Currículo
 
-![Print do Currículo](Images/print-cv.png)
+![Print do Currículo](images/print-cv.png)
