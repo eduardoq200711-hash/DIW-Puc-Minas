@@ -1,12 +1,22 @@
-# Semana 2 - Atividade Pratica
+# Repositório de Exercícios - DIW PUC Minas
 
-**Nome:** Eduardo Queiroz
-**Matrícula:** 911002
+**Aluno:** Eduardo Queiroz  
+**Matrícula:** 911002  
 
-## 1. Inspeção de Rede do Porta
+---
 
-![Inspeção de Rede](images/rede.png)
+## Semana 2 - Atividade pratica
 
-## 2. Visualização do index.html
+### 1. Inspeção de Rede do Portal
+![Inspeção de Rede](Images/rede.png)
 
-![Página Index](images/site.png)
+### 2. Visualização do index.html
+![Página Index](Images/site.png)
+
+---
+
+## Semana 3 - Atividade pratica
+
+### Visualização do Currículo
+
+![Print do Currículo](Images/print-cv.png)
